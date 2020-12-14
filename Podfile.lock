@@ -1,0 +1,20 @@
+PODS:
+  - FirstPod (1.0.1):
+    - SecondPod (= 1.0.0)
+  - SecondPod (1.0.0)
+
+DEPENDENCIES:
+  - FirstPod
+
+SPEC REPOS:
+  "git@github.com:ArtsiomSazonau/Specs.git":
+    - FirstPod
+    - SecondPod
+
+SPEC CHECKSUMS:
+  FirstPod: dead0fd2f5d3a563e661588db9bfc331054c09ac
+  SecondPod: 8b835c1832435feba050632535eeef226ac5f59f
+
+PODFILE CHECKSUM: 9ce26e43158b612569b86b2baa81456a0405a9b1
+
+COCOAPODS: 1.10.0

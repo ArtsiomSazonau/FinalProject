@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-FinalProject/Pods-FinalProject-frameworks.sh
+${BUILT_PRODUCTS_DIR}/FirstPod/FirstPod.framework
+${BUILT_PRODUCTS_DIR}/SecondPod/SecondPod.framework
